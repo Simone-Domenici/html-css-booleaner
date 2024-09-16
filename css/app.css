@@ -38,3 +38,25 @@ h1 {
 figcaption {
     font-size: 12px;
 }
+
+main , footer {
+    margin-left: 5px;
+}
+
+.list {
+    padding-left: 15px;
+}
+
+thead {
+    background-color: #009cea;
+    color: white;
+    text-align: left;
+}
+
+td {
+    padding: 0 25px;
+}
+
+.first-row , .third-row {
+    background-color: lightskyblue;
+}
