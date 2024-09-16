@@ -1,0 +1,15 @@
+body {
+    margin: 0;
+}
+
+.header-top {
+    background-image: url('../img/pattern.png');
+    height: 80px;
+    background-color: rgb(23, 108, 226);
+    background-size: contain;
+}
+
+.header-top > img {
+    height: 60px;
+    padding-top: 20px;
+}
